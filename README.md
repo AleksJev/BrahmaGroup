@@ -3,7 +3,7 @@ BrahmaGroup
 
 Brahma group test
 
-lib.php  - DB config file
+lib.php  - DB config file<br>
 category.php - Category tree on main page
 cat.php - Category tree menu on navigation
 change.php - Controller where was change info category
