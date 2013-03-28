@@ -1,12 +1,12 @@
 BrahmaGroup
 ===========
 
-Brahma group test
+<h3>Brahma group test</h3>
 
-lib.php  - DB config file<br>
-category.php - Category tree on main page
-cat.php - Category tree menu on navigation
-change.php - Controller where was change info category
-update.php, delete.php, insert.php - Model on SQL demands
-
-brahma.sql - MySQL DB
+<b>lib.php</b>  - DB config file<br>
+<b>category.php</b> - Category tree on main page<br>
+<b>cat.php</b> - Category tree menu on navigation<br>
+<b>change.php</b> - Controller where was change info category<br>
+<b>update.php</b>, <b>delete.php</b>, <b>insert.php</b> - Model on SQL demands<br>
+<br>
+<b>brahma.sql</b> - MySQL DB
